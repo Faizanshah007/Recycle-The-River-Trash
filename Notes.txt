@@ -1,0 +1,14 @@
+SimBasin:
+Over simplification
+Focused at elder audience.
+E.g. river alterration is a stochastic parameter
+Policies to implementation has large communication gap
+
+Quantifying ecological alteration
+of rivers is complex as various flow components need to be
+considered due to their differing impacts on riverine ecosystems.
+Therefore, total ecochange is not necessarily a good indicator of
+ecological alteration, as has been confirmed by studies (Gao et al.,
+2009).
+
+continue reading: After introductory sessions
