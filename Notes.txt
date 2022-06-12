@@ -1,14 +1,18 @@
-SimBasin:
-Over simplification
-Focused at elder audience.
-E.g. river alterration is a stochastic parameter
-Policies to implementation has large communication gap
 
-Quantifying ecological alteration
-of rivers is complex as various flow components need to be
-considered due to their differing impacts on riverine ecosystems.
-Therefore, total ecochange is not necessarily a good indicator of
-ecological alteration, as has been confirmed by studies (Gao et al.,
-2009).
 
-continue reading: After introductory sessions
+
+Fully-completed, polished projects are not the intended outcomes of game jams.
+
+
+If the youth of today are trained in a fun realistic simulated environment about how to go about cleaning thier river bodies. A lot of improvement.
+
+Need to be blending in with the mainstream games. The whole purspose is defied if this doesnt happen.
+
+How will I proceed
+Maximizing the minimum art of war video
+
+However, a
+balance between fidelity and play must be considered in order to avoid the game achieving the “chocolatecovered
+broccoli” designation (Bruckman, 1999; Habgood, 2007).
+
+continuously exploring game jam games to add elements that reveamp the gameplay and serious environmental knowledge aspect of the game.
