@@ -1,5 +1,5 @@
 
-
+TARGET AGE - (18 - 30)
 
 Fully-completed, polished projects are not the intended outcomes of game jams.
 
@@ -10,6 +10,8 @@ Need to be blending in with the mainstream games. The whole purspose is defied i
 
 How will I proceed
 Maximizing the minimum art of war video
+
+Hyperrealism, absent in lot of games such as SeAdventure
 
 However, a
 balance between fidelity and play must be considered in order to avoid the game achieving the “chocolatecovered
