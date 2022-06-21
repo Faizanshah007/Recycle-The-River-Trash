@@ -18,3 +18,12 @@ balance between fidelity and play must be considered in order to avoid the game 
 broccoli” designation (Bruckman, 1999; Habgood, 2007).
 
 continuously exploring game jam games to add elements that reveamp the gameplay and serious environmental knowledge aspect of the game.
+
+Biodegradable wastes, e.g., human
+and animal waste, food scraps, manufactured products based
+on natural materials, etc. should be shot using the green gun.
+On the other hand, non-biodegradable wastes such as plastic
+products, metals, constructions wastes, etc. should be shot
+using yellow gun. Lastly, recyclable wastes such as plastic,
+textiles, tires, cardboards, electronics, etc. should be shot
+using the blue gun.
