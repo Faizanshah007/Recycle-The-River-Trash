@@ -1,0 +1,1559 @@
+﻿Log file open, 07/25/22 04:59:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=27748)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EcoBlue
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\Users\faiza\Documents\GitHub\Recycle-The-River-Trash\EcoBlue\EcoBlue.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1826] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="eb3c62bf470f420fde049a9a6dfe60f8"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 18.224779
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B7DB380B40DBEC6F9C4C95A5AA0DDC61
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+LogConfig: Display: Loading Unix ini files took 0.08 seconds
+LogConfig: Display: Loading Android ini files took 0.11 seconds
+LogConfig: Display: Loading Mac ini files took 0.11 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.13 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.14 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.15 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin WaterExtras
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/WaterExtras/Content/' mounted to '/WaterExtras/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1826] (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.07.25-04.00.03:331][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.07.25-04.00.03:331][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.07.25-04.00.03:331][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.07.25-04.00.03:331][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.07.25-04.00.03:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.07.25-04.00.03:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.07.25-04.00.03:348][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.07.25-04.00.03:409][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.07.25-04.00.03:409][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.25-04.00.03:409][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.07.25-04.00.03:409][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.07.25-04.00.03:409][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.07.25-04.00.03:409][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.07.25-04.00.03:409][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.07.25-04.00.03:409][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.07.25-04.00.03:419][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.07.25-04.00.03:419][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.07.25-04.00.03:419][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.07.25-04.00.03:772][  0]LogD3D12RHI: Aftermath initialized
+[2022.07.25-04.00.03:772][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.07.25-04.00.04:846][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1070 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.07.25-04.00.04:948][  0]LogD3D12RHI: Adapter has 8082MB of dedicated video memory, 0MB of dedicated system memory, and 8113MB of shared system memory, 1 output[s]
+[2022.07.25-04.00.05:209][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.07.25-04.00.05:209][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8113MB of shared system memory, 0 output[s]
+[2022.07.25-04.00.05:264][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.07.25-04.00.05:264][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8113MB of shared system memory, 0 output[s]
+[2022.07.25-04.00.05:438][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.07.25-04.00.05:438][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.25-04.00.05:456][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.07.25-04.00.05:461][  0]LogHAL: Display: Platform has ~ 16 GB [17014730752 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.25-04.00.05:462][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.07.25-04.00.05:462][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.07.25-04.00.05:462][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.25-04.00.05:484][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.07.25-04.00.05:484][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/Config/WindowsEditor/Editor.ini]
+[2022.07.25-04.00.05:484][  0]LogInit: Computer: MSI
+[2022.07.25-04.00.05:484][  0]LogInit: User: User
+[2022.07.25-04.00.05:484][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.07.25-04.00.05:484][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.25-04.00.05:484][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.07.25-04.00.05:484][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.07.25-04.00.05:484][  0]LogMemory: Process Physical Memory: 285.14 MB used, 287.18 MB peak
+[2022.07.25-04.00.05:484][  0]LogMemory: Process Virtual Memory: 239.72 MB used, 245.76 MB peak
+[2022.07.25-04.00.05:484][  0]LogMemory: Physical Memory: 6697.94 MB used,  9528.57 MB free, 16226.51 MB total
+[2022.07.25-04.00.05:484][  0]LogMemory: Virtual Memory: 20681.77 MB used,  17831.73 MB free, 38513.50 MB total
+[2022.07.25-04.00.05:484][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.07.25-04.00.05:621][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.25-04.00.06:564][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.07.25-04.00.06:684][  0]LogInit: Using OS detected language (en-US).
+[2022.07.25-04.00.06:684][  0]LogInit: Using OS detected locale (en-GB).
+[2022.07.25-04.00.07:440][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.07.25-04.00.08:315][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.25-04.00.08:377][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.07.25-04.00.08:377][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.07.25-04.00.08:377][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.07.25-04.00.08:377][  0]LogWindowsTextInputMethodSystem:   - English (India) - (Keyboard).
+[2022.07.25-04.00.08:377][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.07.25-04.00.08:377][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.07.25-04.00.09:152][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.25-04.00.09:152][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.25-04.00.12:369][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.07.25-04.00.12:420][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.07.25-04.00.12:420][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.07.25-04.00.12:775][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.07.25-04.00.12:922][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.07.25-04.00.12:931][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.07.25-04.00.12:952][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.07.25-04.00.13:589][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.07.25-04.00.13:589][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.07.25-04.00.13:935][  0]LogD3D12RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.25-04.00.13:935][  0]LogWindows: Attached monitors:
+[2022.07.25-04.00.13:935][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.07.25-04.00.13:935][  0]LogWindows: Found 1 attached monitors.
+[2022.07.25-04.00.13:935][  0]LogWindows: EnumDisplayDevices:
+[2022.07.25-04.00.13:947][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.07.25-04.00.13:948][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.07.25-04.00.13:948][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.07.25-04.00.13:961][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.07.25-04.00.13:963][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.07.25-04.00.13:963][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.07.25-04.00.13:963][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.07.25-04.00.13:963][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.07.25-04.00.13:964][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.07.25-04.00.13:964][  0]LogD3D12RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2022.07.25-04.00.13:964][  0]LogD3D12RHI:      Driver Date: 9-13-2021
+[2022.07.25-04.00.13:964][  0]LogRHI: Texture pool is 4607 MB (70% of 6582 MB)
+[2022.07.25-04.00.13:964][  0]LogD3D12RHI: Async texture creation enabled
+[2022.07.25-04.00.13:964][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.07.25-04.00.14:515][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.07.25-04.00.18:560][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues.
+Please install either the latest or the recommended driver version.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1070
+Installed: 472.12
+Recommended: 511.79
+[2022.07.25-04.00.19:014][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/EcoBlue.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Intermediate/TurnkeyReport_0.log" -log="D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Intermediate/TurnkeyLog_0.log" -project="D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/EcoBlue.uproject"  -platform=all'
+[2022.07.25-04.00.19:021][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/EcoBlue.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Intermediate/TurnkeyReport_0.log" -log="D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Intermediate/TurnkeyLog_0.log" -project="D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/EcoBlue.uproject"  -platform=all" ]
+[2022.07.25-04.00.19:490][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.07.25-04.00.19:716][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.07.25-04.00.19:716][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.07.25-04.00.20:200][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.07.25-04.00.20:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.25-04.00.20:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.25-04.00.20:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.25-04.00.20:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.25-04.00.20:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.25-04.00.20:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.25-04.00.20:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.25-04.00.20:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.25-04.00.20:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.25-04.00.20:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.25-04.00.20:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.07.25-04.00.20:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.07.25-04.00.20:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.25-04.00.20:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.25-04.00.20:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.25-04.00.20:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.07.25-04.00.20:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.25-04.00.20:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.25-04.00.20:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.07.25-04.00.20:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.07.25-04.00.20:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.07.25-04.00.20:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.25-04.00.20:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.25-04.00.20:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.25-04.00.20:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.07.25-04.00.20:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.25-04.00.20:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.25-04.00.20:655][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.07.25-04.00.20:785][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.25-04.00.20:823][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.07.25-04.00.20:823][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.07.25-04.00.20:823][  0]LogTargetPlatformManager:   ADPCM
+[2022.07.25-04.00.20:823][  0]LogTargetPlatformManager:   PCM
+[2022.07.25-04.00.20:870][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.07.25-04.00.20:870][  0]LogTargetPlatformManager:   BINKA
+[2022.07.25-04.00.20:870][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.07.25-04.00.20:870][  0]LogTargetPlatformManager:   OGG
+[2022.07.25-04.00.20:870][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.07.25-04.00.20:870][  0]LogTargetPlatformManager:   OPUS
+[2022.07.25-04.00.21:861][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   SF_METAL
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.07.25-04.00.21:910][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.07.25-04.00.21:945][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.07.25-04.00.21:945][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.07.25-04.00.21:945][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.07.25-04.00.21:945][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.07.25-04.00.21:945][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.07.25-04.00.21:945][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.07.25-04.00.21:946][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.07.25-04.00.21:946][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.25-04.00.21:991][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.25-04.00.22:330][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.25-04.00.22:330][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.25-04.00.22:351][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.25-04.00.22:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.25-04.00.22:604][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.07.25-04.00.22:604][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.25-04.00.22:604][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.07.25-04.00.22:675][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.07.25-04.00.22:675][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.25-04.00.22:675][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.07.25-04.00.22:725][  0]LogDerivedDataCache: Speed tests for C:/Users/faiza/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2022.07.25-04.00.22:835][  0]LogDerivedDataCache: Display: Performance to C:/Users/faiza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=1.16ms. RandomReadSpeed=41.86MBs, RandomWriteSpeed=67.67MBs. Assigned SpeedClass 'Fast'
+[2022.07.25-04.00.23:188][  0]LogDerivedDataCache: Using Local data cache path C:/Users/faiza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.25-04.00.23:188][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.25-04.00.23:188][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.07.25-04.00.23:198][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.07.25-04.00.23:198][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.07.25-04.00.23:691][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Intermediate/Shaders/WorkingDirectory/3632/).
+[2022.07.25-04.00.23:691][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/faiza/AppData/Local/Temp/UnrealShaderWorkingDir/D6B5534D4639CEFBEE22678D748EA32D/'.
+[2022.07.25-04.00.23:706][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.25-04.00.23:716][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.07.25-04.00.34:625][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.25-04.00.34:633][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.25-04.00.35:243][  0]LogAssetRegistry: FAssetRegistry took 0.0477 seconds to start up
+[2022.07.25-04.00.35:326][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.07.25-04.00.41:578][  0]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2022.07.25-04.00.41:841][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.07.25-04.00.42:010][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.07.25-04.00.42:652][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.25-04.00.42:652][  0]LogDeviceProfileManager: Active device profile: [000008EB53675B00][000008EB4B8A0000 50] WindowsEditor
+[2022.07.25-04.00.42:652][  0]LogDeviceProfileManager: Profiles: [000008EB536755C0][000008EB4B8A5000 50] Windows, [000008EB53675B00][000008EB4B8A0000 50] WindowsEditor, [000008EB53673D40][000008EB4B837800 50] WindowsServer, [000008EB536747C0][000008EB4979C800 50] WindowsClient, [000008EB53672840][000008EB4B8A2800 50] IOS, [000008EB53675240][000008EB3C29A000 50] iPadAir2, [000008EB53676200][000008EB53752800 50] IPadPro, [000008EB53676580][000008EB53750000 50] iPadAir3, [000008EB53671DC0][000008EB53757800 50] iPadAir4, [000008EB536732C0][000008EB5375A000 50] iPadMini4, [000008EB53674EC0][000008EB5375C800 50] iPadMini5, [000008EB53676040][000008EB4C9CC800 50] iPadMini6, [000008EB53679840][000008EB53765000 50] iPhone6S, [000008EB53679BC0][000008EB53762800 50] iPhone7, [000008EB536794C0][000008EB53760000 50] iPodTouch7, [000008EB53678C00][000008EB5376A000 50] iPhone6SPlus, [000008EB53670FC0][000008EB5376C800 50] iPhone7Plus, [000008EB53675E80][000008EB53755000 50] iPhoneSE, [000008EB53674600][000008EB53780000 50] iPhone8, [000008EB53671F80][000008EB53785000 50] iPhone8Plus, [000008EB53674D00][000008EB53787800 50] iPhoneX, [000008EB53672BC0][000008EB5378A000 50] iPhoneXS, [000008EB53678F80][000008EB5378C800 50] iPhoneXSMax, [000008EB53676900][000008EB53767800 50] iPhoneXR, [000008EB53676C80][000008EB53790000 50] iPhone11, [000008EB53676740][000008EB53795000 50] iPhone11Pro, [000008EB53678A40][000008EB53797800 50] iPhone11ProMax, [000008EB53672140][000008EB5379A000 50] iPhoneSE2, [000008EB53672D80][000008EB5379C800 50] iPhone12Mini, [000008EB536724C0][000008EB53782800 50] iPhone12, [000008EB53677700][000008EB537C0000 50] iPhone12Pro, [000008EB53674980][000008EB537C5000 50] iPhone12ProMax, [000008EB53677000][000008EB537C7800 50] iPhone13Mini, [000008EB536739C0][000008EB537CA000 50] iPhone13, [000008EB53674B40][000008EB537CC800 50] iPhone13Pro, [000008EB53671180][000008EB53792800 50] iPhone13ProMax, [000008EB53679A00][000008EB537D0000 50] iPadPro105, [000008EB53677C40][000008EB537D5000 50] iPadPro129, [000008EB53671A40][000008EB537D7800 50] iPadPro97, [000008EB53673640][000008EB537DA000 50] iPadPro2_129, [000008EB53675080][000008EB537DC800 50] iPad5, [000008EB53678340][000008EB537C2800 50] iPad6, [000008EB53676E40][000008EB537E0000 50] iPad7, [000008EB53672F40][000008EB537E5000 50] iPad8, [000008EB53678DC0][000008EB537E7800 50] iPad9, [000008EB53677380][000008EB537EA000 50] iPadPro11, [000008EB53670A80][000008EB537EC800 50] iPadPro2_11, [000008EB53671C00][000008EB537D2800 50] iPadPro3_11, [000008EB53673F00][000008EB537F0000 50] iPadPro3_129, [000008EB53676AC0][000008EB537F5000 50] iPadPro4_129, [000008EB53673480][000008EB537F7800 50] iPadPro5_129, [000008EB53671880][000008EB537FA000 50] AppleTV, [000008EB53679300][000008EB537FC800 50] AppleTV4K, [000008EB53677E00][000008EB537E2800 50] TVOS, [000008EB5367B980][000008EB53992800 50] Mac, [000008EB5367B7C0][000008EB53990000 50] MacEditor, [000008EB5367B440][000008EB53997800 50] MacClient, [000008EB5367B280][000008EB5399A000 50] MacServer, [000008EB5367C240][000008EB537F2800 50] Linux, [000008EB5367C5C0][000008EB5399C800 50] LinuxEditor, [000008EB53679140][000008EB539A0000 50] LinuxArm64Editor, [000008EB5367A100][000008EB539A5000 50] LinuxArm64, [000008EB5367B0C0][000008EB539A7800 50] LinuxClient, [000008EB53677FC0][000008EB539AA000 50] LinuxArm64Client, [000008EB53677A80][000008EB539AC800 50] LinuxServer, [000008EB5367BEC0][000008EB53995000 50] LinuxArm64Server, [000008EB5367BD00][000008EB539B0000 50] Android, [000008EB5367A640][000008EB539B5000 50] Android_Preview_OpenGL, [000008EB5367A2C0][000008EB539B7800 50] Android_Preview_Vulkan, [000008EB5367AF00][000008EB539BA000 50] Android_Low, [000008EB53675CC0][000008EB539BC800 50] Android_Mid, [000008EB536778C0][000008EB539A2800 50] Android_High, [000008EB536771C0][000008EB539C0000 50] Android_Default, [000008EB53672680][000008EB539C5000 50] Android_Adreno4xx, [000008EB53673100][000008EB539C7800 50] Android_Adreno5xx_Low, [000008EB53678500][000008EB539CA000 50] Android_Adreno5xx, [000008EB5367CB00][000008EB539CC800 50] Android_Adreno6xx, [000008EB536763C0][000008EB539B2800 50] Android_Adreno6xx_Vulkan, [000008EB5367C940][000008EB539D0000 50] Android_Adreno7xx, [000008EB53679F40][000008EB539D5000 50] Android_Adreno7xx_Vulkan, [000008EB5367A800][000008EB539D7800 50] Android_Mali_T6xx, [000008EB5367C780][000008EB539DA000 50] Android_Mali_T7xx, [000008EB53673800][000008EB539DC800 50] Android_Mali_T8xx, [000008EB5367A480][000008EB539C2800 50] Android_Mali_G71, [000008EB53678880][000008EB539E0000 50] Android_Mali_G72, [000008EB53675940][000008EB539E5000 50] Android_Mali_G72_Vulkan, [000008EB53674440][000008EB539E7800 50] Android_Mali_G76, [000008EB5367D3C0][000008EB539EA000 50] Android_Mali_G76_Vulkan, [000008EB53675400][000008EB539EC800 50] Android_Mali_G77, [000008EB5367D740][000008EB539D2800 50] Android_Mali_G77_Vulkan, [000008EB5367CCC0][000008EB539F0000 50] Android_Mali_G78, [000008EB5367B600][000008EB539F5000 50] Android_Mali_G78_Vulkan, [000008EB5367BB40][000008EB539F7800 50] Android_Mali_G710, [000008EB5367C400][000008EB539FA000 50] Android_Mali_G710_Vulkan, [000008EB5367AB80][000008EB539FC800 50] Android_Xclipse_920, [000008EB53679680][000008EB539E2800 50] Android_Xclipse_920_Vulkan, [000008EB5367E380][000008EB53A00000 50] Android_Vulkan_SM5, [000008EB5367D200][000008EB53A05000 50] Android_PowerVR_G6xxx, [000008EB5367E700][000008EB53A07800 50] Android_PowerVR_GT7xxx, [000008EB5367DC80][000008EB53A0A000 50] Android_PowerVR_GE8xxx, [000008EB5367EC40][000008EB53A0C800 50] Android_PowerVR_GM9xxx, [000008EB53673B80][000008EB539F2800 50] Android_PowerVR_GM9xxx_Vulkan, [000008EB5367D040][000008EB53A10000 50] Android_TegraK1, [000008EB5367F180][000008EB53A15000 50] Android_Unknown_Vulkan, [000008EB53674280][000008EB53A17800 50] Oculus_Quest, [000008EB53672A00][000008EB53A1A000 50] Oculus_Quest2, [000008EB5367F6C0][000008EB53A1C800 50] HoloLens, 
+[2022.07.25-04.00.42:652][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.07.25-04.00.43:939][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.07.25-04.00.46:399][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.25-04.00.46:399][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.25-04.00.46:399][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.25-04.00.46:399][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.25-04.00.46:519][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.25-04.00.47:345][  0]LogNetVersion: EcoBlue 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2637834889)
+[2022.07.25-04.00.57:074][  0]LogSlate: Border
+[2022.07.25-04.00.57:074][  0]LogSlate: BreadcrumbButton
+[2022.07.25-04.00.57:074][  0]LogSlate: Default
+[2022.07.25-04.00.57:074][  0]LogSlate: Icons.Save
+[2022.07.25-04.00.57:074][  0]LogSlate: Icons.Toolbar.Settings
+[2022.07.25-04.00.57:074][  0]LogSlate: ListView
+[2022.07.25-04.00.57:074][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.07.25-04.00.57:074][  0]LogSlate: SoftwareCursor_Grab
+[2022.07.25-04.00.57:074][  0]LogSlate: TableView.DarkRow
+[2022.07.25-04.00.57:074][  0]LogSlate: TableView.Row
+[2022.07.25-04.00.57:074][  0]LogSlate: TreeView
+[2022.07.25-04.01.08:867][  0]SourceControl: Source control is disabled
+[2022.07.25-04.01.09:564][  0]SourceControl: Source control is disabled
+[2022.07.25-04.01.09:565][  0]SourceControl: Source control is disabled
+[2022.07.25-04.01.10:843][  0]LogUObjectArray: 20823 objects as part of root set at end of initial load.
+[2022.07.25-04.01.10:844][  0]LogUObjectAllocator: 5780864 out of 0 bytes used by permanent object pool.
+[2022.07.25-04.01.10:844][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.25-04.01.16:718][  0]LogPython: Using Python 3.9.7
+[2022.07.25-04.01.19:822][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4AB2C355492F8AA85AE4DEBF4B11DCD6 | Instance: F79A882A4A1477FB56094B8DBBAEFBD7 (MSI-3632).
+[2022.07.25-04.01.20:694][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.25-04.01.20:731][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.25-04.01.22:526][  0]LogUProjectInfo: Found projects:
+[2022.07.25-04.01.27:378][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.25-04.01.28:652][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.25-04.01.28:736][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.25-04.01.28:736][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.25-04.01.29:445][  0]LogCollectionManager: Loaded 0 collections in 0.021177 seconds
+[2022.07.25-04.01.30:078][  0]LogFileCache: Scanning file cache for directory 'D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/Collections/' took 0.00s
+[2022.07.25-04.01.30:078][  0]LogFileCache: Scanning file cache for directory 'D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Developers/User/Collections/' took 0.00s
+[2022.07.25-04.01.30:078][  0]LogFileCache: Scanning file cache for directory 'D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Collections/' took 0.00s
+[2022.07.25-04.01.32:177][  0]LogEngine: Initializing Engine...
+[2022.07.25-04.01.32:390][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.07.25-04.01.32:395][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.25-04.01.34:849][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.25-04.01.34:869][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.25-04.01.35:212][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.01.35:611][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.25-04.01.35:662][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.25-04.01.35:720][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.25-04.01.35:781][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.25-04.01.35:781][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.07.25-04.01.35:795][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.25-04.01.35:795][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.25-04.01.35:796][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.01.35:796][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.01.35:796][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.01.35:796][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.01.35:796][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.01.35:796][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.25-04.01.35:796][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.01.35:796][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.01.35:810][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.25-04.01.35:810][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.25-04.01.35:810][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.25-04.01.35:878][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.25-04.01.36:548][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GVAUDIO)
+[2022.07.25-04.01.36:548][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.01.36:597][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.01.36:597][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.01.36:625][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.07.25-04.01.36:626][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.07.25-04.01.36:628][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.25-04.01.36:628][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.07.25-04.01.36:628][  0]LogInit: FAudioDevice initialized.
+[2022.07.25-04.01.36:637][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.25-04.01.36:637][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.25-04.01.36:637][  0]LogInit: Texture streaming: Enabled
+[2022.07.25-04.01.36:770][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.07.25-04.01.36:815][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.25-04.01.36:815][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={49C57FEB-45D9-F519-C2FF-6E8B9B2B919F}
+[2022.07.25-04.01.36:889][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.07.25-04.01.36:908][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.07.25-04.01.36:909][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.07.25-04.02.15:781][  0]LogLiveCoding: Display: First instance in process group "UE_EcoBlue_0x4323bdbd", spawning console
+[2022.07.25-04.02.15:781][  0]LogLiveCoding: Display: Waiting for server
+[2022.07.25-04.02.15:781][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.07.25-04.02.16:411][  0]LogInit: Transaction tracking system initialized
+[2022.07.25-04.02.18:574][  0]BlueprintLog: New page: Editor Load
+[2022.07.25-04.02.20:148][  0]LocalizationService: Localization service is disabled
+[2022.07.25-04.02.20:505][  0]TimingProfiler: Initialize
+[2022.07.25-04.02.20:506][  0]TimingProfiler: OnSessionChanged
+[2022.07.25-04.02.20:506][  0]LoadingProfiler: Initialize
+[2022.07.25-04.02.20:506][  0]LoadingProfiler: OnSessionChanged
+[2022.07.25-04.02.20:527][  0]NetworkingProfiler: Initialize
+[2022.07.25-04.02.20:531][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.25-04.02.20:531][  0]MemoryProfiler: Initialize
+[2022.07.25-04.02.20:531][  0]MemoryProfiler: OnSessionChanged
+[2022.07.25-04.02.30:366][  0]LogFileCache: Scanning file cache for directory 'D:/Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/' took 0.06s
+[2022.07.25-04.02.30:366][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.07.25-04.02.30:763][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.25-04.02.31:348][  0]LogUnrealEdMisc: Loading editor; pre map load, took 218.019
+[2022.07.25-04.02.31:386][  0]Cmd: MAP LOAD FILE="../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-04.02.31:477][  0]LightingResults: New page: Lighting Build
+[2022.07.25-04.02.31:622][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.02.31:743][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.02.31:820][  0]MapCheck: New page: Map Check
+[2022.07.25-04.02.31:820][  0]LightingResults: New page: Lighting Build
+[2022.07.25-04.02.32:508][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.02.32:942][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.25-04.02.37:147][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.07.25-04.02.37:188][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.02.37:189][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.07.25-04.02.37:306][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.25-04.02.37:306][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.07.25-04.02.39:566][  0]LogDerivedDataCache: C:/Users/faiza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.673 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.25-04.02.39:566][  0]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Bike_Mesh) ...
+[2022.07.25-04.02.54:926][  0]LogWorldPartition: Display: WorldPartition initialize took 17.6 sec
+[2022.07.25-04.02.56:285][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-04.02.56:495][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.07.25-04.02.56:519][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-04.02.56:549][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 30.459ms to complete.
+[2022.07.25-04.02.56:563][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 25.183
+[2022.07.25-04.02.57:356][  0]LogUnrealEdMisc: Total Editor Startup Time, took 244.028
+[2022.07.25-04.02.57:356][  0]LogShaderCompilers: Display: ================================================
+[2022.07.25-04.02.57:356][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.25-04.02.57:356][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.25-04.02.57:356][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.25-04.02.57:356][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.25-04.02.57:356][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.25-04.02.57:356][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.07.25-04.02.57:356][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.07.25-04.02.57:356][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.07.25-04.02.57:356][  0]LogShaderCompilers: Display: ================================================
+[2022.07.25-04.02.58:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.02.58:243][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.02.58:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.02.58:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.02.58:764][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.07.25-04.02.58:765][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.25-04.02.58:789][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.07.25-04.02.58:789][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.25-04.02.58:793][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.07.25-04.02.58:793][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.25-04.02.58:806][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.07.25-04.02.58:806][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.25-04.02.58:840][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.07.25-04.02.58:840][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.25-04.02.58:854][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.07.25-04.02.58:854][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.25-04.02.58:927][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.07.25-04.02.58:927][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.25-04.02.58:938][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.07.25-04.02.58:938][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.25-04.02.58:951][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.07.25-04.02.58:951][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.25-04.02.58:956][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.07.25-04.02.58:956][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.25-04.03.03:093][  0]LogSlate: Took 0.001449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.25-04.03.03:525][  0]LogSlate: Took 0.001014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.25-04.03.03:888][  0]LogSlate: Took 0.056763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.25-04.03.03:891][  0]LogSlate: Took 0.000989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.25-04.03.04:000][  0]LogSlate: Took 0.107745 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.25-04.03.04:484][  0]LogViewport: Scene viewport resized to 1143x755, mode Windowed.
+[2022.07.25-04.03.06:322][  0]LogSlate: Took 0.027257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.25-04.03.09:988][  0]LogStall: Startup...
+[2022.07.25-04.03.09:990][  0]LogStall: Startup complete.
+[2022.07.25-04.03.10:513][  0]LogLoad: (Engine Initialization) Total time: 257.19 seconds
+[2022.07.25-04.03.10:513][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.25-04.03.11:401][  0]LogAssetRegistry: Asset discovery search completed in 156.1545 seconds
+[2022.07.25-04.03.11:921][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.07.25-04.03.12:652][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.25-04.04.26:597][832]LogViewport: Scene viewport resized to 1143x751, mode Windowed.
+[2022.07.25-04.04.26:711][834]LogViewport: Scene viewport resized to 1143x694, mode Windowed.
+[2022.07.25-04.04.26:770][836]LogViewport: Scene viewport resized to 1143x659, mode Windowed.
+[2022.07.25-04.04.26:819][838]LogViewport: Scene viewport resized to 1143x626, mode Windowed.
+[2022.07.25-04.04.26:930][844]LogViewport: Scene viewport resized to 1143x614, mode Windowed.
+[2022.07.25-04.04.26:971][846]LogViewport: Scene viewport resized to 1143x600, mode Windowed.
+[2022.07.25-04.04.27:007][847]LogViewport: Scene viewport resized to 1143x578, mode Windowed.
+[2022.07.25-04.04.27:050][848]LogViewport: Scene viewport resized to 1143x525, mode Windowed.
+[2022.07.25-04.04.27:112][850]LogViewport: Scene viewport resized to 1143x506, mode Windowed.
+[2022.07.25-04.04.27:146][851]LogViewport: Scene viewport resized to 1143x502, mode Windowed.
+[2022.07.25-04.04.27:205][853]LogViewport: Scene viewport resized to 1143x497, mode Windowed.
+[2022.07.25-04.06.15:717][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.07.25-04.06.16:872][221]LogBlueprint: Warning: [AssetLog] D:\Users\faiza\Documents\GitHub\Recycle-The-River-Trash\EcoBlue\Content\PN_tropicalGroundPlants\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2022.07.25-04.06.16:872][221]LogBlueprint: Warning: [AssetLog] D:\Users\faiza\Documents\GitHub\Recycle-The-River-Trash\EcoBlue\Content\PN_tropicalGroundPlants\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.07.25-04.06.16:872][221]LogBlueprint: Warning: [AssetLog] D:\Users\faiza\Documents\GitHub\Recycle-The-River-Trash\EcoBlue\Content\PN_tropicalGroundPlants\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.07.25-04.06.16:873][221]LogBlueprint: Warning: [AssetLog] D:\Users\faiza\Documents\GitHub\Recycle-The-River-Trash\EcoBlue\Content\PN_tropicalGroundPlants\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.07.25-04.06.16:873][221]LogBlueprint: Warning: [AssetLog] D:\Users\faiza\Documents\GitHub\Recycle-The-River-Trash\EcoBlue\Content\PN_tropicalGroundPlants\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.07.25-04.06.16:873][221]LogBlueprint: Warning: [AssetLog] D:\Users\faiza\Documents\GitHub\Recycle-The-River-Trash\EcoBlue\Content\PN_tropicalGroundPlants\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.07.25-04.06.16:873][221]LogBlueprint: Warning: [AssetLog] D:\Users\faiza\Documents\GitHub\Recycle-The-River-Trash\EcoBlue\Content\PN_tropicalGroundPlants\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.07.25-04.06.21:891][221]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Marilao.Marilao
+[2022.07.25-04.06.21:900][221]Cmd: MAP LOAD FILE="../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Marilao.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-04.06.21:900][221]LightingResults: New page: Lighting Build
+[2022.07.25-04.06.21:900][221]LoadErrors: New page: Loading map: Marilao.umap
+[2022.07.25-04.06.21:962][221]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.06.21:962][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.06.22:083][221]MapCheck: New page: Map Check
+[2022.07.25-04.06.22:083][221]LightingResults: New page: Lighting Build
+[2022.07.25-04.06.22:103][221]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.06.22:181][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.07.25-04.06.28:116][221]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.07.25-04.06.28:117][221]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.008586s
+[2022.07.25-04.06.28:299][221]LogShaderCompilers: Display: ================================================
+[2022.07.25-04.06.28:299][221]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.25-04.06.28:299][221]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.25-04.06.28:299][221]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.25-04.06.28:299][221]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.25-04.06.28:299][221]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.25-04.06.28:299][221]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.07.25-04.06.28:299][221]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.07.25-04.06.28:299][221]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.07.25-04.06.28:299][221]LogShaderCompilers: Display: ================================================
+[2022.07.25-04.06.28:384][221]LogWorld: UWorld::CleanupWorld for Marilao, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.06.28:384][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.06.30:397][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.07.25-04.06.30:413][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.25-04.06.30:620][221]LogAudio: Display: Audio Device (ID: 1) registered with world 'Marilao'.
+[2022.07.25-04.06.30:622][221]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.25-04.06.30:622][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.06.30:622][221]LogAIModule: Creating AISystem for world Marilao
+[2022.07.25-04.06.34:254][221]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-04.06.34:443][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.07.25-04.06.34:472][221]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-04.06.34:474][221]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.982ms to complete.
+[2022.07.25-04.06.34:474][221]LogFileHelpers: Loading map 'Marilao' took 12.575
+[2022.07.25-04.06.34:489][221]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003286s (6.418525s overbudget)
+[2022.07.25-04.07.10:080][866]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.25-04.07.12:740][866]LogObjectTools: Deleting 1 worlds: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.07.25-04.07.12:741][866]LogObjectTools: Currently 4 active worlds: /Game/Marilao.Marilao, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2022.07.25-04.07.12:766][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.07.25-04.07.15:829][866]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.25-04.07.15:861][866]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.07.15:861][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.07.21:564][866]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.07.25-04.07.21:565][866]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.07.21:565][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.07.21:565][866]LogD3D12RHI: Warning: Force flushing GPU because pending upload allocations reached its limit
+[2022.07.25-04.07.21:713][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.07.25-04.07.21:722][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.07.25-04.07.21:731][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/ThirdPerson/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: Error: warning: could not open directory 'EcoBlue/Content/ThirdPerson/': No such file or directory
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2022.07.25-04.07.27:653][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset'
+[2022.07.25-04.07.27:654][866]SourceControl: rm 'EcoBlue/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset'
+[2022.07.25-04.12.21:088][127]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.07.25-04.12.21:088][127]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.07.25-04.12.21:088][127]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.07.25-04.12.21:088][127]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.07.25-04.12.21:088][127]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.07.25-04.12.21:089][127]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.07.25-04.12.21:089][127]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.07.25-04.12.21:089][127]LogMaterial: Display: Missing cached shadermap for M_MannequinUE4_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 467EDF54512C69430575D17746BF6269B0E78DEC), compiling. 
+[2022.07.25-04.12.21:486][127]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.07.25-04.12.21:486][127]LogMaterial: Display: Missing cached shadermap for M_MannequinUE4_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 283C14E850C687648250DA598D0BAC9C001ECE60), compiling. 
+[2022.07.25-04.12.21:590][127]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2022.07.25-04.12.21:590][127]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.IK_UE4_Mannequin
+[2022.07.25-04.12.21:769][127]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2022.07.25-04.12.21:769][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.12.22:513][127]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.07.25-04.12.23:316][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.12.23:317][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.12.23:984][127]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2022.07.25-04.12.26:763][127]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004252s (3.173323s overbudget)
+[2022.07.25-04.12.27:212][127]LogShaderCompilers: Display: ================================================
+[2022.07.25-04.12.27:212][127]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.25-04.12.27:212][127]LogShaderCompilers: Display: Total job queries 128, among them cache hits 0 (0.00%)
+[2022.07.25-04.12.27:212][127]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.07.25-04.12.27:212][127]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.25-04.12.27:212][127]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.25-04.12.27:212][127]LogShaderCompilers: Display: Shaders Compiled: 128
+[2022.07.25-04.12.27:212][127]LogShaderCompilers: Display: Jobs assigned 73, completed 1 (1.37%)
+[2022.07.25-04.12.27:212][127]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.07.25-04.12.27:237][127]LogShaderCompilers: Display: Time job spent in pending queue: average 0.63 s, longest 4.76 s
+[2022.07.25-04.12.27:237][127]LogShaderCompilers: Display: Job execution time: average 4.81 s, max 4.81 s
+[2022.07.25-04.12.27:237][127]LogShaderCompilers: Display: Job life time (pending + execution): average 4.85 s, max 4.85
+[2022.07.25-04.12.27:238][127]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.85 s
+[2022.07.25-04.12.27:238][127]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 8.11 jobs/batch
+[2022.07.25-04.12.27:238][127]LogShaderCompilers: Display: Average processing rate: 0.21 jobs/sec
+[2022.07.25-04.12.27:238][127]LogShaderCompilers: Display: Effective parallelization: 0.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.07.25-04.12.27:238][127]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.07.25-04.12.27:238][127]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.66 sec, max 1.66 sec, min 1.66 sec)
+[2022.07.25-04.12.27:238][127]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.07.25-04.12.27:238][127]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 100.00% of total time (compiled    1 times, average 1.66 sec, max 1.66 sec, min 1.66 sec)
+[2022.07.25-04.12.27:238][127]LogShaderCompilers: Display: ================================================
+[2022.07.25-04.12.27:649][127]LogViewport: Scene viewport resized to 988x736, mode Windowed.
+[2022.07.25-04.12.27:853][127]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.25-04.12.39:930][284]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequin_UE4/Animations/Jog_Fwd.Jog_Fwd
+[2022.07.25-04.13.01:330][646]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2022.07.25-04.13.54:748][546]LogSlate: Took 0.000975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.25-04.14.13:883][274]LogViewport: Scene viewport resized to 1139x866, mode Windowed.
+[2022.07.25-04.14.13:955][276]LogViewport: Scene viewport resized to 1080x866, mode Windowed.
+[2022.07.25-04.14.14:008][278]LogViewport: Scene viewport resized to 966x866, mode Windowed.
+[2022.07.25-04.14.14:043][279]LogViewport: Scene viewport resized to 890x866, mode Windowed.
+[2022.07.25-04.14.14:102][281]LogViewport: Scene viewport resized to 808x866, mode Windowed.
+[2022.07.25-04.14.14:137][282]LogViewport: Scene viewport resized to 792x866, mode Windowed.
+[2022.07.25-04.14.14:193][284]LogViewport: Scene viewport resized to 775x866, mode Windowed.
+[2022.07.25-04.14.14:226][285]LogViewport: Scene viewport resized to 720x866, mode Windowed.
+[2022.07.25-04.14.14:281][287]LogViewport: Scene viewport resized to 642x866, mode Windowed.
+[2022.07.25-04.14.14:334][289]LogViewport: Scene viewport resized to 595x866, mode Windowed.
+[2022.07.25-04.14.14:386][291]LogViewport: Scene viewport resized to 537x866, mode Windowed.
+[2022.07.25-04.14.14:420][292]LogViewport: Scene viewport resized to 493x866, mode Windowed.
+[2022.07.25-04.14.14:479][294]LogViewport: Scene viewport resized to 470x866, mode Windowed.
+[2022.07.25-04.14.14:512][295]LogViewport: Scene viewport resized to 442x866, mode Windowed.
+[2022.07.25-04.14.14:569][297]LogViewport: Scene viewport resized to 408x866, mode Windowed.
+[2022.07.25-04.14.14:651][301]LogViewport: Scene viewport resized to 401x866, mode Windowed.
+[2022.07.25-04.14.14:707][303]LogViewport: Scene viewport resized to 394x866, mode Windowed.
+[2022.07.25-04.14.14:989][319]LogViewport: Scene viewport resized to 387x866, mode Windowed.
+[2022.07.25-04.14.15:096][320]LogViewport: Scene viewport resized to 384x866, mode Windowed.
+[2022.07.25-04.16.16:136][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.07.25-04.16.16:137][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Marilao' took 0.012
+[2022.07.25-04.16.16:316][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin] ([1] browsable assets)...
+[2022.07.25-04.16.16:317][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin]
+[2022.07.25-04.16.16:454][569]LogPackageLocalizationCache: Processed 33 localized package path(s) for 1 prioritized culture(s) in 0.005248 seconds
+[2022.07.25-04.16.16:649][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin_Auto1
+[2022.07.25-04.16.16:649][569]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/IK_UE4_Mannequin_Auto189B257F6409E1FDBDCCE6B8751713417.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/Autosaves/Game/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin_Auto1.uasset'
+[2022.07.25-04.16.16:663][569]LogFileHelpers: Auto-saving content packages took 0.525
+[2022.07.25-04.20.07:997][444]LogViewport: Scene viewport resized to 361x157, mode Windowed.
+[2022.07.25-04.20.08:059][444]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.25-04.20.58:205][240]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.07.25-04.20.58:350][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.20.58:365][240]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.20.58:976][240]LogViewport: Scene viewport resized to 659x866, mode Windowed.
+[2022.07.25-04.21.01:394][291]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.07.25-04.21.01:394][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.21.01:405][291]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.21.01:685][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.21.01:853][291]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2022.07.25-04.21.13:904][743]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2022.07.25-04.21.13:956][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.21.13:966][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.21.14:155][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.21.14:509][743]LogViewport: Scene viewport resized to 853x538, mode Windowed.
+[2022.07.25-04.21.14:539][743]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.25-04.21.38:654][790]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/UE4_ThirdPerson/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2022.07.25-04.21.38:985][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.21.38:996][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.21.39:007][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.21.42:495][790]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2022.07.25-04.21.42:546][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.21.43:039][790]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001533s (2.389322s overbudget)
+[2022.07.25-04.21.43:158][790]LogSlate: Took 0.019288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.25-04.21.43:176][790]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2022.07.25-04.21.43:718][798]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.21.43:718][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.21.43:894][798]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.21.43:895][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.21.45:344][869]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.21.45:344][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.21.45:356][869]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.21.45:356][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.21.45:509][869]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.21.45:509][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.21.49:722][ 55]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.21.49:722][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.21.51:572][130]LogViewport: Scene viewport resized to 383x889, mode Windowed.
+[2022.07.25-04.21.51:702][132]LogViewport: Scene viewport resized to 157x283, mode Windowed.
+[2022.07.25-04.21.52:667][160]LogViewport: Scene viewport resized to 384x866, mode Windowed.
+[2022.07.25-04.21.53:101][182]LogSlate: Window 'IK_UE4_Mannequin' being destroyed
+[2022.07.25-04.21.59:781][553]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.07.25-04.21.59:781][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.21.59:804][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.22.00:090][553]LogViewport: Scene viewport resized to 659x866, mode Windowed.
+[2022.07.25-04.22.14:389][ 80]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.07.25-04.22.14:390][ 80]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.22.14:439][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.22.14:738][ 80]LogViewport: Scene viewport resized to 659x866, mode Windowed.
+[2022.07.25-04.22.16:636][183]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.22.16:636][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.22.34:641][128]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.22.34:641][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.22.34:724][128]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.22.34:724][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.22.39:226][263]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig.UE4IKRig
+[2022.07.25-04.22.39:226][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.22.39:260][263]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.22.39:260][263]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.22.39:554][263]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2022.07.25-04.22.39:601][263]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.25-04.22.41:507][354]LogViewport: Scene viewport resized to 1139x889, mode Windowed.
+[2022.07.25-04.22.41:640][356]LogViewport: Scene viewport resized to 479x294, mode Windowed.
+[2022.07.25-04.22.41:734][357]LogViewport: Scene viewport resized to 467x283, mode Windowed.
+[2022.07.25-04.22.42:135][364]LogViewport: Scene viewport resized to 469x294, mode Windowed.
+[2022.07.25-04.22.46:165][457]LogViewport: Scene viewport resized to 526x294, mode Windowed.
+[2022.07.25-04.22.46:257][457]LogViewport: Scene viewport resized to 772x294, mode Windowed.
+[2022.07.25-04.22.46:349][457]LogViewport: Scene viewport resized to 839x294, mode Windowed.
+[2022.07.25-04.22.46:439][457]LogViewport: Scene viewport resized to 880x294, mode Windowed.
+[2022.07.25-04.22.48:100][484]LogViewport: Scene viewport resized to 562x860, mode Windowed.
+[2022.07.25-04.22.49:582][490]LogViewport: Scene viewport resized to 324x860, mode Windowed.
+[2022.07.25-04.22.53:394][627]LogViewport: Scene viewport resized to 189x860, mode Windowed.
+[2022.07.25-04.22.56:388][741]LogViewport: Scene viewport resized to 534x860, mode Windowed.
+[2022.07.25-04.22.56:445][743]LogViewport: Scene viewport resized to 390x860, mode Windowed.
+[2022.07.25-04.22.56:494][744]LogViewport: Scene viewport resized to 299x860, mode Windowed.
+[2022.07.25-04.22.56:556][746]LogViewport: Scene viewport resized to 274x860, mode Windowed.
+[2022.07.25-04.22.56:592][747]LogViewport: Scene viewport resized to 255x860, mode Windowed.
+[2022.07.25-04.22.56:652][749]LogViewport: Scene viewport resized to 225x860, mode Windowed.
+[2022.07.25-04.22.56:770][755]LogViewport: Scene viewport resized to 211x860, mode Windowed.
+[2022.07.25-04.22.56:819][757]LogViewport: Scene viewport resized to 199x860, mode Windowed.
+[2022.07.25-04.22.56:912][761]LogViewport: Scene viewport resized to 194x860, mode Windowed.
+[2022.07.25-04.22.57:032][767]LogViewport: Scene viewport resized to 188x860, mode Windowed.
+[2022.07.25-04.22.57:158][773]LogViewport: Scene viewport resized to 185x860, mode Windowed.
+[2022.07.25-04.26.58:540][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.07.25-04.26.58:544][546]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Marilao' took 0.065
+[2022.07.25-04.26.58:572][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig] ([1] browsable assets)...
+[2022.07.25-04.26.58:572][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig]
+[2022.07.25-04.26.58:595][546]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig_Auto2
+[2022.07.25-04.26.58:595][546]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/UE4IKRig_Auto21046BC9E408949AE627EC28BC29FD4F9.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/Autosaves/Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig_Auto2.uasset'
+[2022.07.25-04.26.58:596][546]LogFileHelpers: Auto-saving content packages took 0.053
+[2022.07.25-04.28.37:724][163]LogViewport: Scene viewport resized to 182x860, mode Windowed.
+[2022.07.25-04.28.37:793][165]LogViewport: Scene viewport resized to 136x860, mode Windowed.
+[2022.07.25-04.28.37:861][167]LogViewport: Scene viewport resized to 107x860, mode Windowed.
+[2022.07.25-04.28.37:984][173]LogViewport: Scene viewport resized to 104x860, mode Windowed.
+[2022.07.25-04.28.38:039][175]LogViewport: Scene viewport resized to 97x860, mode Windowed.
+[2022.07.25-04.28.38:187][182]LogViewport: Scene viewport resized to 89x860, mode Windowed.
+[2022.07.25-04.28.38:223][183]LogViewport: Scene viewport resized to 88x860, mode Windowed.
+[2022.07.25-04.28.38:276][184]LogViewport: Scene viewport resized to 85x860, mode Windowed.
+[2022.07.25-04.28.38:568][200]LogViewport: Scene viewport resized to 80x860, mode Windowed.
+[2022.07.25-04.28.38:724][208]LogViewport: Scene viewport resized to 76x860, mode Windowed.
+[2022.07.25-04.28.38:819][212]LogViewport: Scene viewport resized to 73x860, mode Windowed.
+[2022.07.25-04.29.13:871][616]Cmd: TRANSACTION UNDO
+[2022.07.25-04.29.13:871][616]LogEditorTransaction: Undo Set Retarget Root Bone
+[2022.07.25-04.29.14:171][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.29.14:172][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.29.14:182][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.29.36:671][792]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.30.09:665][949]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.30.34:089][608]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.30.49:894][795]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.31.13:906][586]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.33.23:440][121]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.33.35:076][427]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.33.53:660][976]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.34.24:598][ 25]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.35.07:055][413]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.35.12:673][518]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.35.19:730][686]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.36.58:868][737]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.37.59:983][907]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.38.13:950][322]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.39.06:983][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.07.25-04.39.06:988][226]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Marilao' took 0.052
+[2022.07.25-04.39.06:989][226]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig] ([1] browsable assets)...
+[2022.07.25-04.39.06:989][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig]
+[2022.07.25-04.39.07:002][226]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig_Auto3
+[2022.07.25-04.39.07:002][226]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/UE4IKRig_Auto3527AC132420CB1E3ADC98BA14129EB21.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/Autosaves/Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig_Auto3.uasset'
+[2022.07.25-04.39.07:004][226]LogFileHelpers: Auto-saving content packages took 0.015
+[2022.07.25-04.42.12:334][225]LogViewport: Scene viewport resized to 114x294, mode Windowed.
+[2022.07.25-04.42.32:190][708]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin
+[2022.07.25-04.42.32:193][708]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/IK_UE4_Mannequin5F1B7E1D4AB395F2694FC49801E297F2.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset'
+[2022.07.25-04.42.32:259][708]AssetCheck: New page: Asset Save: IK_UE4_Mannequin
+[2022.07.25-04.42.32:340][708]LogContentValidation: Display: Validating IKRigDefinition /Game/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.IK_UE4_Mannequin
+[2022.07.25-04.42.33:053][725]LogViewport: Scene viewport resized to 562x494, mode Windowed.
+[2022.07.25-04.42.33:139][725]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.25-04.42.33:160][726]LogViewport: Scene viewport resized to 177x156, mode Windowed.
+[2022.07.25-04.42.35:524][770]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/ResidentIKRig.ResidentIKRig
+[2022.07.25-04.42.35:524][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.42.35:575][770]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.42.35:575][770]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.42.35:854][770]LogViewport: Scene viewport resized to 562x860, mode Windowed.
+[2022.07.25-04.42.35:911][770]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.25-04.42.39:657][867]LogViewport: Scene viewport resized to 524x860, mode Windowed.
+[2022.07.25-04.42.39:748][869]LogViewport: Scene viewport resized to 308x860, mode Windowed.
+[2022.07.25-04.42.39:836][871]LogViewport: Scene viewport resized to 206x860, mode Windowed.
+[2022.07.25-04.42.39:902][872]LogViewport: Scene viewport resized to 146x860, mode Windowed.
+[2022.07.25-04.42.39:974][874]LogViewport: Scene viewport resized to 103x860, mode Windowed.
+[2022.07.25-04.42.40:379][887]LogViewport: Scene viewport resized to 112x860, mode Windowed.
+[2022.07.25-04.42.40:466][889]LogViewport: Scene viewport resized to 146x860, mode Windowed.
+[2022.07.25-04.42.40:541][890]LogViewport: Scene viewport resized to 175x860, mode Windowed.
+[2022.07.25-04.42.42:765][945]LogViewport: Scene viewport resized to 236x546, mode Windowed.
+[2022.07.25-04.42.43:124][945]LogViewport: Scene viewport resized to 175x860, mode Windowed.
+[2022.07.25-04.42.52:506][121]LogSlate: Window 'UE4IKRig' being destroyed
+[2022.07.25-04.42.52:543][121]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.42.52:544][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.42.57:058][370]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.42.57:058][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.43.01:426][550]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig.UE4IKRig
+[2022.07.25-04.43.01:426][550]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.43.01:467][550]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.43.01:467][550]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.43.01:720][550]LogViewport: Scene viewport resized to 189x860, mode Windowed.
+[2022.07.25-04.43.04:134][669]LogSavePackage: Moving output files for package: /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig
+[2022.07.25-04.43.04:136][669]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/UE4IKRig5A27A6DB48329A2A96A009BFA339A9EA.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig.uasset'
+[2022.07.25-04.43.04:212][669]AssetCheck: New page: Asset Save: UE4IKRig
+[2022.07.25-04.43.04:212][669]LogContentValidation: Display: Validating IKRigDefinition /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4IKRig.UE4IKRig
+[2022.07.25-04.43.05:328][729]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.43.05:328][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.43.16:801][924]LogViewport: Scene viewport resized to 128x860, mode Windowed.
+[2022.07.25-04.43.22:746][133]LogViewport: Scene viewport resized to 1x860, mode Windowed.
+[2022.07.25-04.43.22:787][135]LogViewport: Scene viewport resized to 22x860, mode Windowed.
+[2022.07.25-04.43.22:831][137]LogViewport: Scene viewport resized to 81x860, mode Windowed.
+[2022.07.25-04.43.22:875][139]LogViewport: Scene viewport resized to 124x860, mode Windowed.
+[2022.07.25-04.43.22:920][141]LogViewport: Scene viewport resized to 137x860, mode Windowed.
+[2022.07.25-04.43.24:382][227]LogViewport: Scene viewport resized to 128x860, mode Windowed.
+[2022.07.25-04.43.24:407][228]LogViewport: Scene viewport resized to 109x860, mode Windowed.
+[2022.07.25-04.43.24:463][230]LogViewport: Scene viewport resized to 25x860, mode Windowed.
+[2022.07.25-04.43.35:829][901]LogViewport: Scene viewport resized to 1x860, mode Windowed.
+[2022.07.25-04.43.35:887][904]LogViewport: Scene viewport resized to 17x860, mode Windowed.
+[2022.07.25-04.43.35:931][906]LogViewport: Scene viewport resized to 62x860, mode Windowed.
+[2022.07.25-04.43.35:974][908]LogViewport: Scene viewport resized to 111x860, mode Windowed.
+[2022.07.25-04.43.36:002][909]LogViewport: Scene viewport resized to 130x860, mode Windowed.
+[2022.07.25-04.43.36:033][910]LogViewport: Scene viewport resized to 134x860, mode Windowed.
+[2022.07.25-04.43.36:694][949]LogViewport: Scene viewport resized to 127x860, mode Windowed.
+[2022.07.25-04.43.36:722][950]LogViewport: Scene viewport resized to 121x860, mode Windowed.
+[2022.07.25-04.43.36:826][953]LogViewport: Scene viewport resized to 120x860, mode Windowed.
+[2022.07.25-04.43.36:849][954]LogViewport: Scene viewport resized to 116x860, mode Windowed.
+[2022.07.25-04.43.36:888][955]LogViewport: Scene viewport resized to 114x860, mode Windowed.
+[2022.07.25-04.43.36:933][957]LogViewport: Scene viewport resized to 110x860, mode Windowed.
+[2022.07.25-04.43.36:959][958]LogViewport: Scene viewport resized to 108x860, mode Windowed.
+[2022.07.25-04.43.40:513][160]LogViewport: Scene viewport resized to 101x860, mode Windowed.
+[2022.07.25-04.43.40:553][162]LogViewport: Scene viewport resized to 97x860, mode Windowed.
+[2022.07.25-04.43.40:581][163]LogViewport: Scene viewport resized to 92x860, mode Windowed.
+[2022.07.25-04.43.40:626][165]LogViewport: Scene viewport resized to 81x860, mode Windowed.
+[2022.07.25-04.43.40:670][167]LogViewport: Scene viewport resized to 66x860, mode Windowed.
+[2022.07.25-04.43.40:929][182]LogViewport: Scene viewport resized to 55x860, mode Windowed.
+[2022.07.25-04.43.40:973][184]LogViewport: Scene viewport resized to 42x860, mode Windowed.
+[2022.07.25-04.43.41:016][186]LogViewport: Scene viewport resized to 33x860, mode Windowed.
+[2022.07.25-04.43.41:047][187]LogViewport: Scene viewport resized to 28x860, mode Windowed.
+[2022.07.25-04.43.41:091][189]LogViewport: Scene viewport resized to 26x860, mode Windowed.
+[2022.07.25-04.43.41:420][208]LogViewport: Scene viewport resized to 17x860, mode Windowed.
+[2022.07.25-04.43.41:473][210]LogViewport: Scene viewport resized to 4x860, mode Windowed.
+[2022.07.25-04.43.41:508][211]LogViewport: Scene viewport resized to 3x860, mode Windowed.
+[2022.07.25-04.43.41:753][225]LogViewport: Scene viewport resized to 6x860, mode Windowed.
+[2022.07.25-04.43.41:777][226]LogViewport: Scene viewport resized to 10x860, mode Windowed.
+[2022.07.25-04.43.41:816][227]LogViewport: Scene viewport resized to 16x860, mode Windowed.
+[2022.07.25-04.43.41:910][232]LogViewport: Scene viewport resized to 18x860, mode Windowed.
+[2022.07.25-04.43.41:952][234]LogViewport: Scene viewport resized to 20x860, mode Windowed.
+[2022.07.25-04.43.43:581][331]LogViewport: Scene viewport resized to 29x860, mode Windowed.
+[2022.07.25-04.43.43:609][332]LogViewport: Scene viewport resized to 56x860, mode Windowed.
+[2022.07.25-04.43.43:664][334]LogViewport: Scene viewport resized to 98x860, mode Windowed.
+[2022.07.25-04.43.43:694][335]LogViewport: Scene viewport resized to 118x860, mode Windowed.
+[2022.07.25-04.43.43:744][337]LogViewport: Scene viewport resized to 145x860, mode Windowed.
+[2022.07.25-04.43.43:787][339]LogViewport: Scene viewport resized to 165x860, mode Windowed.
+[2022.07.25-04.43.44:362][373]LogViewport: Scene viewport resized to 170x860, mode Windowed.
+[2022.07.25-04.43.44:450][376]LogViewport: Scene viewport resized to 176x860, mode Windowed.
+[2022.07.25-04.43.44:492][378]LogViewport: Scene viewport resized to 189x860, mode Windowed.
+[2022.07.25-04.43.44:538][380]LogViewport: Scene viewport resized to 196x860, mode Windowed.
+[2022.07.25-04.43.44:581][382]LogViewport: Scene viewport resized to 208x860, mode Windowed.
+[2022.07.25-04.43.44:625][384]LogViewport: Scene viewport resized to 210x860, mode Windowed.
+[2022.07.25-04.43.44:736][390]LogViewport: Scene viewport resized to 213x860, mode Windowed.
+[2022.07.25-04.43.44:864][397]LogViewport: Scene viewport resized to 208x860, mode Windowed.
+[2022.07.25-04.43.44:906][399]LogViewport: Scene viewport resized to 207x860, mode Windowed.
+[2022.07.25-04.43.44:953][401]LogViewport: Scene viewport resized to 201x860, mode Windowed.
+[2022.07.25-04.43.44:997][403]LogViewport: Scene viewport resized to 194x860, mode Windowed.
+[2022.07.25-04.43.45:041][405]LogViewport: Scene viewport resized to 184x860, mode Windowed.
+[2022.07.25-04.43.45:087][407]LogViewport: Scene viewport resized to 181x860, mode Windowed.
+[2022.07.25-04.43.45:196][413]LogViewport: Scene viewport resized to 174x860, mode Windowed.
+[2022.07.25-04.43.45:237][415]LogViewport: Scene viewport resized to 166x860, mode Windowed.
+[2022.07.25-04.43.46:972][517]LogViewport: Scene viewport resized to 161x860, mode Windowed.
+[2022.07.25-04.43.47:016][519]LogViewport: Scene viewport resized to 138x860, mode Windowed.
+[2022.07.25-04.43.47:063][521]LogViewport: Scene viewport resized to 113x860, mode Windowed.
+[2022.07.25-04.43.47:106][523]LogViewport: Scene viewport resized to 104x860, mode Windowed.
+[2022.07.25-04.43.47:151][525]LogViewport: Scene viewport resized to 93x860, mode Windowed.
+[2022.07.25-04.44.56:316][  0]LogViewport: Scene viewport resized to 89x860, mode Windowed.
+[2022.07.25-04.44.56:359][  2]LogViewport: Scene viewport resized to 50x860, mode Windowed.
+[2022.07.25-04.44.56:892][ 33]LogViewport: Scene viewport resized to 5x860, mode Windowed.
+[2022.07.25-04.44.56:918][ 34]LogViewport: Scene viewport resized to 9x860, mode Windowed.
+[2022.07.25-04.44.57:104][ 42]LogViewport: Scene viewport resized to 11x860, mode Windowed.
+[2022.07.25-04.45.31:032][448]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.45.41:780][823]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.46.33:801][ 50]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.46.48:700][488]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.47.46:538][582]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.48.02:220][ 78]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.48.28:175][761]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.48.43:401][235]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.48.55:318][516]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.49.39:276][476]LogViewport: Scene viewport resized to 22x860, mode Windowed.
+[2022.07.25-04.49.39:303][477]LogViewport: Scene viewport resized to 38x860, mode Windowed.
+[2022.07.25-04.49.39:371][479]LogViewport: Scene viewport resized to 82x860, mode Windowed.
+[2022.07.25-04.49.39:414][481]LogViewport: Scene viewport resized to 117x860, mode Windowed.
+[2022.07.25-04.49.39:457][483]LogViewport: Scene viewport resized to 143x860, mode Windowed.
+[2022.07.25-04.49.41:456][601]LogViewport: Scene viewport resized to 133x860, mode Windowed.
+[2022.07.25-04.49.41:498][603]LogViewport: Scene viewport resized to 110x860, mode Windowed.
+[2022.07.25-04.49.41:546][605]LogViewport: Scene viewport resized to 87x860, mode Windowed.
+[2022.07.25-04.49.41:591][607]LogViewport: Scene viewport resized to 77x860, mode Windowed.
+[2022.07.25-04.49.41:636][609]LogViewport: Scene viewport resized to 68x860, mode Windowed.
+[2022.07.25-04.49.41:712][613]LogViewport: Scene viewport resized to 60x860, mode Windowed.
+[2022.07.25-04.49.41:741][614]LogViewport: Scene viewport resized to 47x860, mode Windowed.
+[2022.07.25-04.49.41:834][618]LogViewport: Scene viewport resized to 42x860, mode Windowed.
+[2022.07.25-04.49.41:874][620]LogViewport: Scene viewport resized to 38x860, mode Windowed.
+[2022.07.25-04.49.41:971][625]LogViewport: Scene viewport resized to 34x860, mode Windowed.
+[2022.07.25-04.49.41:993][626]LogViewport: Scene viewport resized to 33x860, mode Windowed.
+[2022.07.25-04.49.42:053][628]LogViewport: Scene viewport resized to 28x860, mode Windowed.
+[2022.07.25-04.49.42:095][630]LogViewport: Scene viewport resized to 25x860, mode Windowed.
+[2022.07.25-04.49.42:157][633]LogViewport: Scene viewport resized to 22x860, mode Windowed.
+[2022.07.25-04.49.42:198][635]LogViewport: Scene viewport resized to 20x860, mode Windowed.
+[2022.07.25-04.49.42:282][639]LogViewport: Scene viewport resized to 17x860, mode Windowed.
+[2022.07.25-04.49.42:326][641]LogViewport: Scene viewport resized to 15x860, mode Windowed.
+[2022.07.25-04.50.03:304][421]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.50.14:089][683]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.50.27:398][ 31]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.50.42:319][337]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.50.57:209][794]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.51.43:298][691]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.51.54:591][ 39]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2022.07.25-04.51.56:937][152]LogSavePackage: Moving output files for package: /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/ResidentIKRig
+[2022.07.25-04.51.56:940][152]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ResidentIKRigB013F9A5467C2175CC74F5B20C626236.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/UE4_ThirdPerson/Mannequin/Character/Mesh/ResidentIKRig.uasset'
+[2022.07.25-04.51.57:021][152]AssetCheck: New page: Asset Save: ResidentIKRig
+[2022.07.25-04.51.57:021][152]LogContentValidation: Display: Validating IKRigDefinition /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/ResidentIKRig.ResidentIKRig
+[2022.07.25-04.52.26:990][538]LogViewport: Scene viewport resized to 43x866, mode Windowed.
+[2022.07.25-04.52.28:838][643]LogViewport: Scene viewport resized to 1143x497, mode Windowed.
+[2022.07.25-04.52.28:881][644]LogViewport: Scene viewport resized to 361x157, mode Windowed.
+[2022.07.25-04.53.37:233][764]LogSlate: Window 'Pick IK Rig To Copy Animation From' being destroyed
+[2022.07.25-04.53.37:567][764]LogContentBrowser: Deferred new asset file creation: NewIKRetargeter
+[2022.07.25-04.53.37:575][764]LogContentBrowser: Creating deferred item: NewIKRetargeter
+[2022.07.25-04.53.37:595][765]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRetargeter).
+[2022.07.25-04.53.40:864][886]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> NewIKRetargeter
+[2022.07.25-04.53.41:154][886]LogContentBrowser: End creating deferred item NewIKRetargeter
+[2022.07.25-04.53.42:420][954]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Test/NewIKRetargeter.NewIKRetargeter
+[2022.07.25-04.53.42:421][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-04.53.42:458][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.53.42:564][954]LogViewport: Scene viewport resized to 1003x866, mode Windowed.
+[2022.07.25-04.53.42:642][954]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.25-04.55.25:713][924]LogSavePackage: Moving output files for package: /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/ResidentIKRig
+[2022.07.25-04.55.25:715][924]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ResidentIKRigAE7A7DBE4182755A876DDF948020CC20.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/UE4_ThirdPerson/Mannequin/Character/Mesh/ResidentIKRig.uasset'
+[2022.07.25-04.55.25:763][924]AssetCheck: New page: Asset Save: ResidentIKRig
+[2022.07.25-04.55.25:763][924]LogContentValidation: Display: Validating IKRigDefinition /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/ResidentIKRig.ResidentIKRig
+[2022.07.25-04.55.29:086][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/NewIKRetargeter" FILE="../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/NewIKRetargeter.uasset" SILENT=true
+[2022.07.25-04.55.29:088][ 78]LogSavePackage: Moving output files for package: /Game/Test/NewIKRetargeter
+[2022.07.25-04.55.29:088][ 78]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/NewIKRetargeter523273F943F68D0DCE00799FF6847E18.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/NewIKRetargeter.uasset'
+[2022.07.25-04.55.29:471][ 78]AssetCheck: New page: Asset Save: NewIKRetargeter
+[2022.07.25-04.55.29:471][ 78]LogContentValidation: Display: Validating IKRetargeter /Game/Test/NewIKRetargeter.NewIKRetargeter
+[2022.07.25-04.58.48:059][669]Cmd: TRANSACTION UNDO
+[2022.07.25-04.58.48:060][669]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2022.07.25-04.58.48:228][669]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.58.48:228][669]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.58.48:239][669]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.59.38:206][544]Cmd: TRANSACTION UNDO
+[2022.07.25-04.59.38:206][544]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2022.07.25-04.59.38:374][544]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.59.38:375][544]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.59.38:385][544]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.59.39:154][560]Cmd: TRANSACTION UNDO
+[2022.07.25-04.59.39:154][560]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2022.07.25-04.59.39:357][560]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.59.39:358][560]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.59.39:368][560]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.59.41:625][614]Cmd: TRANSACTION REDO
+[2022.07.25-04.59.41:625][614]LogEditorTransaction: Redo Rotate Retarget Pose Bone
+[2022.07.25-04.59.41:827][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.59.41:828][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-04.59.41:839][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.00.23:102][971]Cmd: TRANSACTION UNDO
+[2022.07.25-05.00.23:102][971]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2022.07.25-05.00.23:264][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.00.23:265][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.00.23:275][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.00.44:373][120]Cmd: TRANSACTION UNDO
+[2022.07.25-05.00.44:373][120]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2022.07.25-05.00.44:534][120]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.00.44:534][120]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.00.44:544][120]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.02.31:439][908]LogDerivedDataCache: C:/Users/faiza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.588 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.25-05.02.40:361][359]LogContentBrowser: Attempting asset rename: ThirdPersonJump_Start -> ThirdPersonJump_Start
+[2022.07.25-05.04.28:192][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/NewIKRetargeter" FILE="../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/NewIKRetargeter.uasset" SILENT=true
+[2022.07.25-05.04.28:194][165]LogSavePackage: Moving output files for package: /Game/Test/NewIKRetargeter
+[2022.07.25-05.04.28:197][165]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/NewIKRetargeter93D45A594FB84F85E6D2EAA24A1BAA94.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/NewIKRetargeter.uasset'
+[2022.07.25-05.04.28:277][165]AssetCheck: New page: Asset Save: NewIKRetargeter
+[2022.07.25-05.04.28:277][165]LogContentValidation: Display: Validating IKRetargeter /Game/Test/NewIKRetargeter.NewIKRetargeter
+[2022.07.25-05.05.18:031][691]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.25-05.05.18:038][691]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.25-05.05.18:065][692]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.07.25-05.05.31:400][197]LogContentBrowser: Attempting asset rename: NewFolder -> TargettedAnim
+[2022.07.25-05.05.31:401][197]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.25-05.05.45:408][469]LogContentBrowser: Attempting asset rename: TargettedAnim -> TargetedAnim
+[2022.07.25-05.06.01:907][744]LogSlate: Window 'Select Export Path' being destroyed
+[2022.07.25-05.06.01:944][744]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2022.07.25-05.06.01:944][744]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2022.07.25-05.06.01:944][744]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2022.07.25-05.06.01:944][744]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2022.07.25-05.06.01:944][744]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2022.07.25-05.06.01:944][744]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2022.07.25-05.06.02:554][744]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPerson_Jump_Retargeted
+[2022.07.25-05.06.02:554][744]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPerson_Jump_Retargeted304020B04B41CD055F1FC4A9ADA36919.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPerson_Jump_Retargeted.uasset'
+[2022.07.25-05.06.03:742][744]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPersonIdle_Retargeted
+[2022.07.25-05.06.03:742][744]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonIdle_RetargetedD22BE5CD4E66B289FBE48FAD8F500520.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonIdle_Retargeted.uasset'
+[2022.07.25-05.06.05:116][744]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPersonJump_Loop_Retargeted
+[2022.07.25-05.06.05:116][744]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonJump_Loop_RetargetedCFDBF0EA462692E67AB9E096C241F7DE.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonJump_Loop_Retargeted.uasset'
+[2022.07.25-05.06.06:321][744]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPersonJump_Start_Retargeted
+[2022.07.25-05.06.06:321][744]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonJump_Start_Retargeted7024CDEE4F7B41C4F23C888CFF723497.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonJump_Start_Retargeted.uasset'
+[2022.07.25-05.06.07:590][744]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPersonRun_Retargeted
+[2022.07.25-05.06.07:590][744]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonRun_RetargetedB2032E5241383377EB0FE0AA9865D8CB.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonRun_Retargeted.uasset'
+[2022.07.25-05.06.08:899][744]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPersonWalk_Retargeted
+[2022.07.25-05.06.08:899][744]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonWalk_Retargeted04704BE04E524F21301558B704E45B79.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonWalk_Retargeted.uasset'
+[2022.07.25-05.06.09:747][744]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPerson_Jump_Retargeted.ThirdPerson_Jump_Retargeted
+[2022.07.25-05.06.09:747][744]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonIdle_Retargeted.ThirdPersonIdle_Retargeted
+[2022.07.25-05.06.09:747][744]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2022.07.25-05.06.09:763][744]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2022.07.25-05.06.09:773][744]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2022.07.25-05.06.09:777][744]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2022.07.25-05.06.09:780][744]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2022.07.25-05.06.09:783][744]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2022.07.25-05.06.09:801][744]LogTemp: Display: Duplicate and Retarget - New Asset Created: ThirdPerson_Jump_Retargeted
+[2022.07.25-05.06.09:801][744]LogTemp: Display: Duplicate and Retarget - New Asset Created: ThirdPersonIdle_Retargeted
+[2022.07.25-05.06.09:801][744]LogTemp: Display: Duplicate and Retarget - New Asset Created: ThirdPersonJump_Loop_Retargeted
+[2022.07.25-05.06.09:801][744]LogTemp: Display: Duplicate and Retarget - New Asset Created: ThirdPersonJump_Start_Retargeted
+[2022.07.25-05.06.09:801][744]LogTemp: Display: Duplicate and Retarget - New Asset Created: ThirdPersonRun_Retargeted
+[2022.07.25-05.06.09:801][744]LogTemp: Display: Duplicate and Retarget - New Asset Created: ThirdPersonWalk_Retargeted
+[2022.07.25-05.06.09:941][744]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.25-05.06.09:941][744]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonWalk_Retargeted.ThirdPersonWalk_Retargeted
+[2022.07.25-05.06.09:941][744]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonRun_Retargeted.ThirdPersonRun_Retargeted
+[2022.07.25-05.06.09:941][744]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonJump_Start_Retargeted.ThirdPersonJump_Start_Retargeted
+[2022.07.25-05.06.09:941][744]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonJump_Loop_Retargeted.ThirdPersonJump_Loop_Retargeted
+[2022.07.25-05.06.09:941][744]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonIdle_Retargeted.ThirdPersonIdle_Retargeted
+[2022.07.25-05.06.09:941][744]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPerson_Jump_Retargeted.ThirdPerson_Jump_Retargeted
+[2022.07.25-05.06.09:994][745]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonWalk_Retargeted.ThirdPersonWalk_Retargeted
+[2022.07.25-05.06.09:994][745]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonRun_Retargeted.ThirdPersonRun_Retargeted
+[2022.07.25-05.06.10:039][745]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPerson_Jump_Retargeted.ThirdPerson_Jump_Retargeted
+[2022.07.25-05.06.10:088][746]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonJump_Start_Retargeted.ThirdPersonJump_Start_Retargeted
+[2022.07.25-05.06.10:089][746]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonJump_Loop_Retargeted.ThirdPersonJump_Loop_Retargeted
+[2022.07.25-05.06.10:354][748]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonIdle_Retargeted.ThirdPersonIdle_Retargeted
+[2022.07.25-05.06.13:326][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.07.25-05.06.13:330][805]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Marilao' took 0.050
+[2022.07.25-05.06.13:438][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/CitizenA/Throw_Object_Skeleton] ([1] browsable assets)...
+[2022.07.25-05.06.13:484][805]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Test/CitizenA/Throw_Object_Skeleton.Throw_Object_Skeleton]
+[2022.07.25-05.06.13:484][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/CitizenA/Throw_Object_Skeleton]
+[2022.07.25-05.06.13:504][805]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Test/CitizenA/Throw_Object_Skeleton_Auto4
+[2022.07.25-05.06.13:504][805]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/Throw_Object_Skeleton_Auto43AA6B2E34A2699DC663886A6FC545E11.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/Autosaves/Game/Test/CitizenA/Throw_Object_Skeleton_Auto4.uasset'
+[2022.07.25-05.06.13:505][805]LogFileHelpers: Auto-saving content packages took 0.175
+[2022.07.25-05.06.23:218][ 18]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Throw_Object_Skeleton, removing AnimBP from actor.
+[2022.07.25-05.06.25:706][106]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2022.07.25-05.06.25:802][106]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.25-05.06.41:726][594]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.25-05.06.41:774][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-05.06.41:783][594]PIE: New page: PIE session: Marilao (25 Jul 2022, 07:06:41)
+[2022.07.25-05.06.41:802][594]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.07.25-05.06.41:809][594]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.25-05.06.41:857][594]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Marilao
+[2022.07.25-05.06.42:320][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.463181s)
+[2022.07.25-05.06.42:320][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Marilao.Marilao to /Game/UEDPIE_0_Marilao.Marilao (0.463437s)
+[2022.07.25-05.06.42:320][594]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.25-05.06.42:320][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.06.42:321][594]LogAIModule: Creating AISystem for world Marilao
+[2022.07.25-05.06.42:321][594]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2022.07.25-05.06.42:346][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.07.25-05.06.42:355][594]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.25-05.06.42:355][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-05.06.42:355][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-05.06.42:355][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-05.06.42:355][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-05.06.42:355][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-05.06.42:355][594]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.25-05.06.42:355][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-05.06.42:355][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-05.06.42:356][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.25-05.06.42:356][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.25-05.06.42:356][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.25-05.06.42:360][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.25-05.06.42:425][594]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GVAUDIO)
+[2022.07.25-05.06.42:425][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-05.06.42:425][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-05.06.42:425][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-05.06.42:426][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.07.25-05.06.42:426][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.07.25-05.06.42:429][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.07.25-05.06.42:429][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.07.25-05.06.42:429][594]LogInit: FAudioDevice initialized.
+[2022.07.25-05.06.42:429][594]LogAudio: Display: Audio Device (ID: 2) registered with world 'Marilao'.
+[2022.07.25-05.06.42:462][594]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.07.25-05.06.42:477][594]LogWorld: Bringing World /Game/UEDPIE_0_Marilao.Marilao up for play (max tick rate 60) at 2022.07.25-06.06.42
+[2022.07.25-05.06.42:576][594]LogWorld: Bringing up level for play took: 0.102429
+[2022.07.25-05.06.42:579][594]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2022.07.25-05.06.42:911][594]PIE: Server logged in
+[2022.07.25-05.06.42:912][594]PIE: Play in editor total start time 1.171 seconds.
+[2022.07.25-05.06.46:282][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-05.06.46:282][712]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Marilao
+[2022.07.25-05.06.46:282][712]LogWorld: UWorld::CleanupWorld for Marilao, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.06.46:283][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.06.46:300][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-05.06.46:307][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.06.46:385][712]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-05.06.46:447][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.25-05.06.46:449][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.25-05.06.46:466][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-05.06.46:563][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.07.25-05.06.46:684][713]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.07.25-05.06.46:693][713]LogViewport: Scene viewport resized to 361x157, mode Windowed.
+[2022.07.25-05.06.46:740][713]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2022.07.25-05.06.46:800][713]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.25-05.06.48:592][777]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.25-05.07.15:600][487]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPerson_Jump_Retargeted
+[2022.07.25-05.07.15:602][487]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPerson_Jump_Retargeted9C85B4664C025E7C9B8BD89650F90ABC.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPerson_Jump_Retargeted.uasset'
+[2022.07.25-05.07.15:683][487]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPersonIdle_Retargeted
+[2022.07.25-05.07.15:685][487]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonIdle_Retargeted72EA966F4FE57050D41DA3BC260D268F.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonIdle_Retargeted.uasset'
+[2022.07.25-05.07.15:710][487]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPersonJump_Loop_Retargeted
+[2022.07.25-05.07.15:712][487]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonJump_Loop_RetargetedEB206386473AF07FCE0FCCA0D1806BA3.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonJump_Loop_Retargeted.uasset'
+[2022.07.25-05.07.15:738][487]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPersonJump_Start_Retargeted
+[2022.07.25-05.07.15:740][487]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonJump_Start_Retargeted424F600249CFCEA1196D0CBD0D9B96FD.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonJump_Start_Retargeted.uasset'
+[2022.07.25-05.07.15:766][487]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPersonRun_Retargeted
+[2022.07.25-05.07.15:768][487]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonRun_RetargetedB7FCC3184FAE212509F0DD862E853994.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonRun_Retargeted.uasset'
+[2022.07.25-05.07.15:794][487]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/TargetedAnim/ThirdPersonWalk_Retargeted
+[2022.07.25-05.07.15:797][487]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonWalk_Retargeted181E89C1476B6689DE8E1AA2E483F149.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonWalk_Retargeted.uasset'
+[2022.07.25-05.07.15:834][487]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.25-05.07.15:834][487]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonWalk_Retargeted.ThirdPersonWalk_Retargeted
+[2022.07.25-05.07.15:834][487]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonRun_Retargeted.ThirdPersonRun_Retargeted
+[2022.07.25-05.07.15:834][487]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonJump_Start_Retargeted.ThirdPersonJump_Start_Retargeted
+[2022.07.25-05.07.15:834][487]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonJump_Loop_Retargeted.ThirdPersonJump_Loop_Retargeted
+[2022.07.25-05.07.15:834][487]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPersonIdle_Retargeted.ThirdPersonIdle_Retargeted
+[2022.07.25-05.07.15:834][487]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/TargetedAnim/ThirdPerson_Jump_Retargeted.ThirdPerson_Jump_Retargeted
+[2022.07.25-05.07.28:519][943]LogContentBrowser: Attempting asset rename: TargetedAnim -> RetargetedAnim
+[2022.07.25-05.07.30:864][943]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/RetargetedAnim/ThirdPersonWalk_Retargeted
+[2022.07.25-05.07.30:864][943]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonWalk_Retargeted57986FBA48D04E3594C9C3B4AAC5F447.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/RetargetedAnim/ThirdPersonWalk_Retargeted.uasset'
+[2022.07.25-05.07.30:915][943]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/RetargetedAnim/ThirdPersonRun_Retargeted
+[2022.07.25-05.07.30:915][943]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonRun_RetargetedB7889DC942E0A33752081FAFBE68D3A2.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/RetargetedAnim/ThirdPersonRun_Retargeted.uasset'
+[2022.07.25-05.07.30:931][943]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/RetargetedAnim/ThirdPersonJump_Start_Retargeted
+[2022.07.25-05.07.30:931][943]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonJump_Start_Retargeted38942FF949DAD4D69DE2429155A8663F.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/RetargetedAnim/ThirdPersonJump_Start_Retargeted.uasset'
+[2022.07.25-05.07.30:946][943]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/RetargetedAnim/ThirdPersonJump_Loop_Retargeted
+[2022.07.25-05.07.30:946][943]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonJump_Loop_Retargeted480E4A544D14E59982069B84B2A6BDAF.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/RetargetedAnim/ThirdPersonJump_Loop_Retargeted.uasset'
+[2022.07.25-05.07.30:967][943]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/RetargetedAnim/ThirdPersonIdle_Retargeted
+[2022.07.25-05.07.30:968][943]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPersonIdle_Retargeted16117C3F4E104E5A1EEB1DA7A0E1D73A.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/RetargetedAnim/ThirdPersonIdle_Retargeted.uasset'
+[2022.07.25-05.07.30:982][943]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/RetargetedAnim/ThirdPerson_Jump_Retargeted
+[2022.07.25-05.07.30:982][943]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/ThirdPerson_Jump_Retargeted03460EFC4E80E15D9EA4B09C665100AB.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/RetargetedAnim/ThirdPerson_Jump_Retargeted.uasset'
+[2022.07.25-05.07.32:360][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.07.25-05.07.32:392][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.07.25-05.07.32:426][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.25-05.07.32:768][943]SourceControl: rm 'EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonIdle_Retargeted.uasset'
+[2022.07.25-05.07.32:768][943]SourceControl: rm 'EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonJump_Loop_Retargeted.uasset'
+[2022.07.25-05.07.32:768][943]SourceControl: rm 'EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonJump_Start_Retargeted.uasset'
+[2022.07.25-05.07.32:768][943]SourceControl: rm 'EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonRun_Retargeted.uasset'
+[2022.07.25-05.07.32:768][943]SourceControl: rm 'EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPersonWalk_Retargeted.uasset'
+[2022.07.25-05.07.32:768][943]SourceControl: rm 'EcoBlue/Content/Test/CitizenA/TargetedAnim/ThirdPerson_Jump_Retargeted.uasset'
+[2022.07.25-05.07.32:824][943]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.25-05.07.32:824][943]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/RetargetedAnim/ThirdPersonWalk_Retargeted.ThirdPersonWalk_Retargeted
+[2022.07.25-05.07.32:825][943]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/RetargetedAnim/ThirdPersonRun_Retargeted.ThirdPersonRun_Retargeted
+[2022.07.25-05.07.32:825][943]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/RetargetedAnim/ThirdPersonJump_Start_Retargeted.ThirdPersonJump_Start_Retargeted
+[2022.07.25-05.07.32:825][943]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/RetargetedAnim/ThirdPersonJump_Loop_Retargeted.ThirdPersonJump_Loop_Retargeted
+[2022.07.25-05.07.32:825][943]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/RetargetedAnim/ThirdPersonIdle_Retargeted.ThirdPersonIdle_Retargeted
+[2022.07.25-05.07.32:825][943]LogContentValidation: Display: Validating AnimSequence /Game/Test/CitizenA/RetargetedAnim/ThirdPerson_Jump_Retargeted.ThirdPerson_Jump_Retargeted
+[2022.07.25-05.08.41:730][686]LogMetaData: Removing '/Game/Test/CitizenA/RetargetedAnim/Resident_AnimBP1.Resident_AnimBP1_C' ref from Metadata '/Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/Resident_AnimBP1.PackageMetaData'
+[2022.07.25-05.08.41:730][686]LogMetaData: Removing '/Game/Test/CitizenA/RetargetedAnim/Resident_AnimBP1.SKEL_Resident_AnimBP1_C:BlueprintUpdateAnimation' ref from Metadata '/Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/Resident_AnimBP1.PackageMetaData'
+[2022.07.25-05.08.41:730][686]LogMetaData: Removing '/Game/Test/CitizenA/RetargetedAnim/Resident_AnimBP1.SKEL_Resident_AnimBP1_C:AnimGraph' ref from Metadata '/Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/Resident_AnimBP1.PackageMetaData'
+[2022.07.25-05.08.41:730][686]LogMetaData: Removing '/Game/Test/CitizenA/RetargetedAnim/Resident_AnimBP1.SKEL_Resident_AnimBP1_C' ref from Metadata '/Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/Resident_AnimBP1.PackageMetaData'
+[2022.07.25-05.08.41:730][686]LogMetaData: Removing '/Game/Test/CitizenA/RetargetedAnim/Resident_AnimBP1.Resident_AnimBP1_C:BlueprintUpdateAnimation' ref from Metadata '/Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/Resident_AnimBP1.PackageMetaData'
+[2022.07.25-05.08.41:730][686]LogMetaData: Removing '/Game/Test/CitizenA/RetargetedAnim/Resident_AnimBP1.Resident_AnimBP1_C:AnimGraph' ref from Metadata '/Game/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/Resident_AnimBP1.PackageMetaData'
+[2022.07.25-05.08.41:969][686]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/RetargetedAnim/Resident_AnimBP1
+[2022.07.25-05.08.41:969][686]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/Resident_AnimBP1D882C3A64A783737C9AED1B6952C8CC5.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/RetargetedAnim/Resident_AnimBP1.uasset'
+[2022.07.25-05.08.42:885][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.07.25-05.08.42:918][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.07.25-05.08.42:945][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.25-05.08.43:229][686]SourceControl: rm 'EcoBlue/Content/PN_tropicalGroundPlants/UE4_ThirdPerson/Mannequin/Animations/Resident_AnimBP1.uasset'
+[2022.07.25-05.08.43:303][686]AssetCheck: New page: Asset Save: Resident_AnimBP1
+[2022.07.25-05.08.43:303][686]LogContentValidation: Display: Validating AnimBlueprint /Game/Test/CitizenA/RetargetedAnim/Resident_AnimBP1.Resident_AnimBP1
+[2022.07.25-05.08.45:794][747]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Test/CitizenA/RetargetedAnim/Resident_AnimBP1.Resident_AnimBP1
+[2022.07.25-05.08.45:794][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.08.45:846][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.08.45:858][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.08.46:656][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.08.46:791][747]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2022.07.25-05.08.54:556][198]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.07.25-05.08.54:556][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.08.54:583][198]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.08.54:821][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.08.54:990][198]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2022.07.25-05.09.17:107][308]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.09.17:107][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.09.17:197][308]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.09.17:197][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.12.54:286][178]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.12.54:286][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.12.54:301][178]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.12.54:301][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.12.54:406][178]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.12.54:406][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.12.58:314][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.07.25-05.12.59:959][317]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.25-05.13.00:094][317]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Test/CitizenA/RetargetedAnim/Resident_AnimBP1.Resident_AnimBP1
+	Asset Type: AnimBlueprint
+[2022.07.25-05.13.01:748][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.07.25-05.13.01:773][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.07.25-05.13.01:796][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.07.25-05.13.02:024][317]SourceControl: rm 'EcoBlue/Content/Test/CitizenA/RetargetedAnim/Resident_AnimBP1.uasset'
+[2022.07.25-05.13.11:596][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.13.11:614][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.13.11:746][566]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2022.07.25-05.13.11:791][566]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2022.07.25-05.14.03:829][630]LogSlate: Window 'Duplicate and Retarget Animation Assets' being destroyed
+[2022.07.25-05.14.03:905][630]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.14.03:906][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.14.03:925][630]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.14.03:925][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.16.19:180][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.07.25-05.16.21:776][108]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Marilao_Auto5
+[2022.07.25-05.16.21:780][108]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/Marilao_Auto57C9CA88247B9071C69979680692F1E48.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/Autosaves/Game/Marilao_Auto5.umap'
+[2022.07.25-05.16.22:117][108]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Marilao' took 3.280
+[2022.07.25-05.16.22:117][108]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.280
+[2022.07.25-05.16.35:503][379]LogViewport: Scene viewport resized to 659x866, mode Windowed.
+[2022.07.25-05.16.59:945][430]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.07.25-05.16.59:946][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.16.59:987][430]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.17.00:190][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.17.00:324][430]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2022.07.25-05.17.42:635][527]Cmd: TRANSACTION UNDO
+[2022.07.25-05.17.42:635][527]LogEditorTransaction: Undo Rotate Bone
+[2022.07.25-05.17.42:889][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.17.42:890][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.17.42:899][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.17.42:911][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.18.25:748][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.18.25:765][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.18.25:886][281]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2022.07.25-05.18.25:933][281]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2022.07.25-05.18.47:094][719]LogSlate: Window 'Duplicate and Retarget Animation Assets' being destroyed
+[2022.07.25-05.18.47:175][719]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.18.47:175][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.18.47:192][719]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.18.47:192][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.19.03:443][552]LogSavePackage: Moving output files for package: /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2022.07.25-05.19.03:445][552]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/UE4_Mannequin_SkeletonDE9452D94DE1F6DA397854BB3C62202E.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.07.25-05.19.03:490][552]AssetCheck: New page: Asset Save: UE4_Mannequin_Skeleton
+[2022.07.25-05.19.03:490][552]LogContentValidation: Display: Validating Skeleton /Game/UE4_ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.07.25-05.19.08:745][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/NewIKRetargeter" FILE="../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/NewIKRetargeter.uasset" SILENT=true
+[2022.07.25-05.19.08:747][807]LogSavePackage: Moving output files for package: /Game/Test/NewIKRetargeter
+[2022.07.25-05.19.08:750][807]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/NewIKRetargeter9D00575E46DE33D08222189C6E94A5B2.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/NewIKRetargeter.uasset'
+[2022.07.25-05.19.08:803][807]AssetCheck: New page: Asset Save: NewIKRetargeter
+[2022.07.25-05.19.08:803][807]LogContentValidation: Display: Validating IKRetargeter /Game/Test/NewIKRetargeter.NewIKRetargeter
+[2022.07.25-05.19.16:701][167]LogSlate: Window 'Create New Retarget Pose' being destroyed
+[2022.07.25-05.19.25:873][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/NewIKRetargeter" FILE="../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/NewIKRetargeter.uasset" SILENT=true
+[2022.07.25-05.19.25:876][640]LogSavePackage: Moving output files for package: /Game/Test/NewIKRetargeter
+[2022.07.25-05.19.25:879][640]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/NewIKRetargeter6A67B53949260A9C8C8C57AF3B093580.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/NewIKRetargeter.uasset'
+[2022.07.25-05.19.25:935][640]AssetCheck: New page: Asset Save: NewIKRetargeter
+[2022.07.25-05.19.25:935][640]LogContentValidation: Display: Validating IKRetargeter /Game/Test/NewIKRetargeter.NewIKRetargeter
+[2022.07.25-05.19.30:673][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.19.30:689][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.19.30:811][738]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2022.07.25-05.19.30:857][738]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2022.07.25-05.19.43:361][953]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Test/CitizenA/Throw_Object.Throw_Object
+[2022.07.25-05.19.43:363][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-05.19.43:373][953]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.19.43:715][953]LogViewport: Scene viewport resized to 659x866, mode Windowed.
+[2022.07.25-05.19.54:659][180]Cmd: TRANSACTION UNDO
+[2022.07.25-05.19.54:659][180]LogEditorTransaction: Undo Rotate Bone
+[2022.07.25-05.19.55:017][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.19.55:017][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.19.55:027][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.19.55:028][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.19.55:029][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.25-05.20.11:349][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/CitizenA/Throw_Object" FILE="../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/Throw_Object.uasset" SILENT=true
+[2022.07.25-05.20.11:965][563]LogSavePackage: Moving output files for package: /Game/Test/CitizenA/Throw_Object
+[2022.07.25-05.20.11:967][563]LogSavePackage: Moving '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Saved/Throw_ObjectC3E243D84AF02BFB86E156BC9A2E2886.tmp' to '../../../../../Users/faiza/Documents/GitHub/Recycle-The-River-Trash/EcoBlue/Content/Test/CitizenA/Throw_Object.uasset'
+[2022.07.25-05.20.12:070][563]AssetCheck: New page: Asset Save: Throw_Object
+[2022.07.25-05.20.12:070][563]LogContentValidation: Display: Validating SkeletalMesh /Game/Test/CitizenA/Throw_Object.Throw_Object
+[2022.07.25-05.20.16:565][623]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2022.07.25-05.20.16:565][623]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2022.07.25-05.20.16:565][623]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2022.07.25-05.20.16:565][623]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2022.07.25-05.20.18:155][623]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2022.07.25-05.20.22:245][623]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
