@@ -72,3 +72,6 @@ EcoBlue/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 EcoBlue/DerivedDataCache/*
+
+# Final Package
+EcoBlue/Final/*
