@@ -76,3 +76,7 @@ EcoBlue/DerivedDataCache/*
 # Final Package
 EcoBlue/Final/*
 Dissertation.docx
+
+
+# Temp files
+~.*
